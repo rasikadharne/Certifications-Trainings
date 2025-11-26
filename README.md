@@ -17,8 +17,9 @@ It includes both **formal certifications** from recognized institutions and **sk
 ```text
 Certifications-and-Trainings/
 ├── Certifications/
-│   ├── IBM_Python_for_Data_Science_AI_and_Development/
-│   ├── IBM_Introduction_to_Data_Analytics/
+│   ├── AI & data analytics
+      ├──   IBM_Python_for_Data_Science_AI_and_Development/
+│      ├── IBM_Introduction_to_Data_Analytics/
 │   ├── FAHM_Fellow_Academy_for_Healthcare_Management/
 │   └── ...
 │   └── ...
